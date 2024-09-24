@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sol!
+# Hi there 👋, 
 
 
 ## 🌱 What I've learned so far:
